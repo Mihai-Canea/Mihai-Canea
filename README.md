@@ -6,6 +6,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love reading Stephen King's books
 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mihai-canea.vercel.app/api?username=mihai-canea&show_icons=true&hide_border=true" />
 
 ### My current skills:
 
