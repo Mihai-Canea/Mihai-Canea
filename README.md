@@ -6,11 +6,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love reading Stephen King's books
 
----
 
-<img align="left" alt="Mihai-Canea's Github Stats" src="https://github-readme-stats.mihai-canea.vercel.app/api?username=Mihai-Canea&show_icons=true&hide_border=true" />
 
----
+<img align="left" alt="Mihai-Canea Github Stats" src="https://github-readme-stats.mihai-canea.vercel.app/api?username=Mihai-Canea&show_icons=true&hide_border=true" />
+
 
 ### My current skills:
 
